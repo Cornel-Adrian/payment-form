@@ -58,7 +58,7 @@ function Form() {
             </div>
             <div className="row center padding">
                 <Button type="reset" text="Clear" onClickHandler={HandleClear}></Button>
-                <Button type="submit" text="Submit" onClickHandler={HandleSubmit}></Button>
+                <Button type="submit" text="Submit"></Button>
             </div>
         </form>
     )

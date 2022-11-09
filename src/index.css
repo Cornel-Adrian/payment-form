@@ -4,10 +4,13 @@ div {
 }
 
 .container {
-  margin: 30% auto;
-  border: 1ex solid rgb(35, 216, 248);
-  border-radius: 15px;
+  margin: 120px auto;
+  border: 2px solid rgb(35, 216, 248);
+  border-radius: 10px;
+  box-shadow: -16px -9px 5px 0px #8EB2B1;
 }
+
+
 
 .padding {
   padding: 8px 8px;
